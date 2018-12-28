@@ -1,0 +1,3 @@
+/home/mostafa/Documents/c++/projectTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mostafa/Documents/c++/projectTest/cmake-build-debug/CMakeFiles/projectTest.dir
+/home/mostafa/Documents/c++/projectTest/cmake-build-debug/CMakeFiles/edit_cache.dir
